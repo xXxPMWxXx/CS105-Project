@@ -6,3 +6,4 @@ Each row corresponds to a different applicant and contains attributes captured b
 The dataset contains 1000 rows and 23 columns
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PanMingwei/CS105-Project.git/binder?labpath=CS105%20Project%20Submission%20Part%20I%202023.ipynb)
+
