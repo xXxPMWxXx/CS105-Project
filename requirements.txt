@@ -1,24 +1,4 @@
-jupyterlab==v3.2.2
-jupyterlab-language-pack-pl-pl>=3.1.post5
-jupyterlab-language-pack-tr-TR>=3.1.post5
-jupyterlab-language-pack-el-GR>=3.1.post5
+ipykernel>=6
+jupyterlab==4.0.0a35
 jupyterlab-link-share
-# LSP
-jupyterlab-lsp
-autopep8
-flake8>=3.8.0
-pycodestyle>=2.6.0,<2.7.0
-pydocstyle>=2.0.0
-pyflakes>=2.2.0,<2.3.0
-pylint>=2.5.0
-yapf
-rope>=0.10.5
-git+https://github.com/krassowski/python-language-server.git@main
-# other extensions
-jupyterlab-git
-jupyterlab-spellchecker
-jupyterlab-spreadsheet-editor
-gower==0.0.5
-scikit-learn
-plotnine
-umap-learn
+jupyter-collaboration
