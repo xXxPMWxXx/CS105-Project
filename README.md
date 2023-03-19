@@ -12,6 +12,6 @@ The dataset contains 1000 rows and 23 columns
 - [Ng Yi Tong](https://github.com/PlacidPlaty)
 - [Lim ZhengLong Brian](https://github.com/Liseon617)
 - [Pan Mingwei](https://github.com/xXxPMWxXx)
-- [Chew Jun Liang Jerome]()
+- [Chew Jun Liang Jerome]
 - [Lee Wen Jin](https://github.com/wjlee299)
 
