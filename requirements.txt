@@ -2,3 +2,8 @@ ipykernel>=6
 jupyterlab==4.0.0a35
 jupyterlab-link-share
 jupyter-collaboration
+python=3.9
+numpy
+pandas
+matplotlib
+seaborn
