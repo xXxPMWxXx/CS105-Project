@@ -9,6 +9,7 @@ The dataset contains 1000 rows and 23 columns
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xXxPMWxXx/CS105-Project.git/binder)
 
 
+
 ## Contributors
 - [Chew Jun Liang Jerome]
 - [Lee Wen Jin](https://github.com/wjlee299)
